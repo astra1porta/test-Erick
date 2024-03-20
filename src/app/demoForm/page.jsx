@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function demoForm() {
+export default function DemoForm() {
   const [username, setUsername] = useState();
   const [password, setPassword] = useState();
 
